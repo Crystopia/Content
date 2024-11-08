@@ -3,6 +3,7 @@
  "title": "Test",
   "slug": "ttt",
   "image": "https://i.imgur.com/eSiyKFL.jpeg",
-  "file": "file.mdx"
+  "file": "file.mdx",
+  "lang": "en"
 }
 ]
