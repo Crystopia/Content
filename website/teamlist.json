@@ -3,56 +3,56 @@
         "name": "Jesper",
         "title": "OWNER",
         "description": "Hey there! I'm Jesper one of the Owner from Crystopia! I'm responsible for the server's development and the community. I'm always here to help you with any questions or problems you might have. I'm looking forward to seeing you on the server!",
-        "image": " ",
+        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/tnsjesper.png",
         "bgColor": "bg-red-500"
     },
     {
         "name": "Malte",
         "title": "OWNER",
         "description": "Oh Hello! I'm Malte, one of the Owners from Crystopia! I'm Building and managing the server with Jesper. You can always ask me for help if you need it. You can find me on the Discord Server",
-        "image": "soulapollo65074",
+        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/soulapollo65074.png",
         "bgColor": "bg-red-500"
     },
     {
         "name": "Creeper",
         "title": "ADMIN",
         "description": "I' Creeper... I'm one of the Admins from Crystopia! I'm moderating and administrating the server. If you have a question or needs help, you can ask me and I would help you. You can find me on the Minecraft and Discord Server. See you soon on the Minecraft and/or Discord Server",
-        "image": "creeper_9190",
+        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/creeper_9190.png",
         "bgColor": "bg-red-400"
     },
     {
         "name": "Darkblue",
         "title": "ADMIN",
         "description": "Hello there! I'm Erik one of the Admin from Crystopia! I'm moderating and administrating the server. If you have a question or needs help, you can ask me and I would help you. You can find me on the Minecraft and Discord Server. See you soon on the Minecraft and/or Discord Server",
-        "image": "Darkblue_DragonX",
+        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/Darkblue_DragonX.png",
         "bgColor": "bg-red-400"
     },
     {
         "name": "NrwPlay",
         "title": "ADMIN",
         "description": "Admin of Crystopia! I'm always there for you if you have any questions or problems. I'm looking forward to seeing you on the server! Oh and I'm also responsible for the server System and the community.",
-        "image": "NrwPlay",
+        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/nrwplay.png",
         "bgColor": "bg-red-400"
     },
     {
         "name": "Moritz",
         "title": "MOD",
         "description": "Hello, I'm Moritz, Moderator at the Crystopia Minecraft Server. I would like to make this Server a better place by helping the community with questions etc. In my free time I'm developing applications and 3D printing stuff.",
-        "image": "mrmoritz_",
+        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/mrmoritz_.png",
         "bgColor": "bg-blue-400"
     },
     {
         "name": "Zyra",
         "title": "BUILDER",
         "description": "Zyra is our fantastic builder and builds our beautiful lobbies and spawns. She designs and is responsible for the creative art",
-        "image": "zyraway",
+        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/zyraway.png",
         "bgColor": "bg-pink-400"
     },
     {
         "name": "Bruno",
         "title": "SUPPORT",
         "description": "Oh yes I'm Bruno and I'm in the team of Crystopia! I'm helping the players ingame and in the Discord and im always there, if u have questions about the server. Cya online ;D!",
-        "image": "destruction_bee",
+        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/destruction_bee.png",
         "bgColor": "bg-green-400"
     }
 ]
