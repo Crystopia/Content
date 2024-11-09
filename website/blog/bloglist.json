@@ -2,7 +2,7 @@
 {
  "title": "Test",
   "slug": "1",
-  "image": "https://cdn.discordapp.com/attachments/916281656879505428/1304933578290892871/image.png?ex=67313199&is=672fe019&hm=8855496a3d4ff757907f8fb6eb91b37b937ce4929b9f6464e195702257c7201a&",
+  "image": "https://cdn.discordapp.com/attachments/916281656879505428/1304936080579231754/image.png?ex=673133ee&is=672fe26e&hm=07244293e66d6f8e21d1b6ec4bf8accc16b8c3ee82fffca43f5c2e63eddb49a8&",
   "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/blog/md/1-de.md",
  "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/blog/md/1-en.md",
  "date": "2024-11-11",
@@ -11,7 +11,7 @@
 {
  "title": "Test",
   "slug": "2",
-  "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/blog/images/image.png",
+  "image": "https://cdn.discordapp.com/attachments/916281656879505428/1304936080579231754/image.png?ex=673133ee&is=672fe26e&hm=07244293e66d6f8e21d1b6ec4bf8accc16b8c3ee82fffca43f5c2e63eddb49a8&",
   "de": "file.mdx",
  "en": "file.mdx",
  "date": "2024-11-08",
