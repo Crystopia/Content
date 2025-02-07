@@ -32,14 +32,6 @@
         "textcolor": "text-red-400"
     },
     {
-        "name": "NrwPlay",
-        "title": "ADMIN",
-        "description": "Admin of Crystopia! I'm always there for you if you have any questions or problems. I'm looking forward to seeing you on the server! Oh and I'm also responsible for the server System and the community.",
-        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/nrwplay.png",
-        "bgColor": "bg-red-400",
-        "textcolor": "text-red-400"
-    },
-    {
         "name": "Moritz",
         "title": "MOD",
         "description": "Hello, I'm Moritz, Moderator at the Crystopia Minecraft Server. I would like to make this Server a better place by helping the community with questions etc. In my free time I'm developing applications and 3D printing stuff.",
@@ -60,6 +52,14 @@
         "title": "BUILDER",
         "description": "Zyra is our fantastic builder and builds our beautiful lobbies and spawns. She designs and is responsible for the creative art",
         "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/zyraway.png",
+        "bgColor": "bg-pink-400",
+        "textcolor": "text-pink-400"
+    },
+    {
+        "name": "Laveldel",
+        "title": "BUILDER",
+        "description": "Lavender is also in our builder team and is incredibly talented when it comes to building in minecraft.",
+        "image": "https://github.com/Crystopia/Content/blob/main/website/images/VZGERender-Lavendel_Tee.png?raw=true",
         "bgColor": "bg-pink-400",
         "textcolor": "text-pink-400"
     },
