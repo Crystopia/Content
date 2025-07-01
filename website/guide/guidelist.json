@@ -3,8 +3,8 @@
     "title": "How to Join",
     "slug": "how-to-join",
     "image": "https://cdn.xyzhub.link/u/xHnUD6.png",
-    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/join-crystopia.mdx",
-    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/join-crystopia.mdx",
+    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/network/join-crystopia.mdx",
+    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/network/join-crystopia.mdx",
     "description": "How to Join on our Minecraft Server",
     "type": "Network"
   },
@@ -12,8 +12,8 @@
     "title": "Rules",
     "slug": "network-rules",
     "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e9/Book_and_Quill_JE2_BE2.png/revision/latest/thumbnail/width/360/height/360?cb=20240724193510",
-    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/rules.mdx",
-    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/rules.mdx",
+    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/network/rules.mdx",
+    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/network/rules.mdx",
     "description": "How to Join on our Minecraft Server",
     "type": "Network"
   },
@@ -21,8 +21,8 @@
     "title": "What is Crystopia",
     "slug": "what-is-crystopia",
     "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b3/Compass_JE3_BE3.gif/revision/latest/thumbnail/width/360/height/360?cb=20201125191224",
-    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/what-is-crystopia.mdx",
-    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/what-is-crystopia.mdx",
+    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/network/what-is-crystopia.mdx",
+    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/network/what-is-crystopia.mdx",
     "description": "How to Join on our Minecraft Server",
     "type": "Network"
   },
@@ -30,8 +30,8 @@
     "title": "SOON",
     "slug": "SOON",
     "image": "https://cdn.xyzhub.link/u/xHnUD6.png",
-    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/soon.md",
-    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/soon.md",
+    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/soon/soon.md",
+    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/soon/soon.md",
     "description": "SOON",
     "type": "SOON"
   }
