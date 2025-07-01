@@ -9,6 +9,15 @@
     "type": "Network"
   },
   {
+    "title": "Rules",
+    "slug": "rules",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e9/Book_and_Quill_JE2_BE2.png/revision/latest/thumbnail/width/360/height/360?cb=20240724193510",
+    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/rules.mdx",
+    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/rules.mdx",
+    "description": "How to Join on our Minecraft Server",
+    "type": "Network"
+  },
+  {
     "title": "SOON",
     "slug": "SOON",
     "image": "https://cdn.xyzhub.link/u/xHnUD6.png",
