@@ -12,12 +12,7 @@ And yes you will get a Role on Discord for your contributions.
 # Custom Components for Guides
 
 ```tsx
-<HintTag
-          icon="align-horizontal-distribute-end"
-          title="Need Help?"
-          type="info"
-          description="If you need assistance, feel free to reach out to us on Discord or check our documentation."
-        />
+<GuideLink guide="network-rules" title="test" />
 ```
 
 ```tsx
@@ -26,9 +21,9 @@ And yes you will get a Role on Discord for your contributions.
 
 ```tsx
 <HintTag
-          icon="align-horizontal-distribute-end"
-          title="Need Help?"
-          type="info"
-          description="If you need assistance, feel free to reach out to us on Discord or check our documentation."
-        />
+  icon="align-horizontal-distribute-end"
+  title="Need Help?"
+  type="info"
+  description="If you need assistance, feel free to reach out to us on Discord or check our documentation."
+/>
 ```
