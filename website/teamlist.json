@@ -16,28 +16,12 @@
         "textcolor": "text-red-500"
     },
     {
-        "name": "Creeper",
-        "title": "ADMIN",
-        "description": "I' Creeper... I'm one of the Admins from Crystopia! I'm moderating and administrating the server. If you have a question or needs help, you can ask me and I would help you. You can find me on the Minecraft and Discord Server. See you soon on the Minecraft and/or Discord Server",
-        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/creeper_9190.png",
-        "bgColor": "bg-red-400",
-        "textcolor": "text-red-400"
-    },
-    {
         "name": "Darkblue",
         "title": "ADMIN",
         "description": "Hello there! I'm Erik one of the Admin from Crystopia! I'm moderating and administrating the server. If you have a question or needs help, you can ask me and I would help you. You can find me on the Minecraft and Discord Server. See you soon on the Minecraft and/or Discord Server",
         "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/Darkblue_DragonX.png",
         "bgColor": "bg-red-400",
         "textcolor": "text-red-400"
-    },
-    {
-        "name": "Moritz",
-        "title": "MOD",
-        "description": "Hello, I'm Moritz, Moderator at the Crystopia Minecraft Server. I would like to make this Server a better place by helping the community with questions etc. In my free time I'm developing applications and 3D printing stuff.",
-        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/mrmoritz_.png",
-        "bgColor": "bg-blue-400",
-        "textcolor": "text-blue-400"
     },
             {
         "name": "Dannyx",
@@ -62,13 +46,5 @@
         "image": "https://github.com/Crystopia/Content/blob/main/website/images/VZGERender-Lavendel_Tee.png?raw=true",
         "bgColor": "bg-pink-400",
         "textcolor": "text-pink-400"
-    },
-    {
-        "name": "Bruno",
-        "title": "SUPPORT",
-        "description": "Oh yes I'm Bruno and I'm in the team of Crystopia! I'm helping the players ingame and in the Discord and im always there, if u have questions about the server. Cya online ;D!",
-        "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/images/destruction_bee.png",
-        "bgColor": "bg-green-400",
-        "textcolor": "text-green-400"
     }
 ]
