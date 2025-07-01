@@ -18,6 +18,15 @@
     "type": "Network"
   },
   {
+    "title": "What is Crystopia",
+    "slug": "what-is-crystopia",
+    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b3/Compass_JE3_BE3.gif/revision/latest/thumbnail/width/360/height/360?cb=20201125191224",
+    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/what-is-crystopia.mdx",
+    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/what-is-crystopia.mdx",
+    "description": "How to Join on our Minecraft Server",
+    "type": "Network"
+  },
+  {
     "title": "SOON",
     "slug": "SOON",
     "image": "https://cdn.xyzhub.link/u/xHnUD6.png",
