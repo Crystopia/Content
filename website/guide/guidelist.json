@@ -1,18 +1,19 @@
 [
   {
-    "title": "Economy",
-    "slug": "economy",
+    "title": "How to Join",
+    "slug": "how-to-join",
     "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/images/gold.png",
-    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/economy-de.mdx",
-    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/economy-en.md",
-    "description": "Read all indos all about the economy of Crystopia, including how to earn money, the different currencies, and the various shops available.",
+    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/join-crystopia.mdx",
+    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/join-crystopia.mdx",
+    "description": "How to Join on our Minecraft Server",
     "type": "Network"
-  }, {
+  },
+  {
     "title": "SOON",
     "slug": "SOON",
     "image": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/images/gold.png",
-    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/economy-de.mdx",
-    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/economy-en.md",
+    "de": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/soon.md",
+    "en": "https://raw.githubusercontent.com/Crystopia/Content/refs/heads/main/website/guide/md/soon.md",
     "description": "SOON",
     "type": "SOON"
   }
