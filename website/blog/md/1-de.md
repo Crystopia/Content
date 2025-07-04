@@ -57,7 +57,7 @@ Neue Features, Devlogs, Tutorials und Behind-the-Scenes – alles für dich zum 
 
 Entdecke ab sofort unsere neue Website – modern, klar strukturiert und perfekt, um den Überblick über unsere Projekte zu behalten. Noch mehr Inhalte folgen bald!
 
-🔗 **Website:** [https://crystopia.](https://crystopia.dev)
+🔗 **Website:** [https://crystopia.net](https://crystopia.net)
 
 <br />
 <br />
