@@ -1,6 +1,14 @@
 [
     {
-        "name": "test",
-        "url": "https://test.de"
-    }
+        "name": "discord",
+        "url": "https://discord.gg/zgZBWY3p2m"
+    },
+    {
+        "name": "github",
+        "url": "https://github.com/Crystopia"
+    },
+    {
+        "name": "youtube",
+        "url": "https://www.youtube.com/@CrystopiaNet"
+    },
 ]
