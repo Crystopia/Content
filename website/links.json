@@ -1,6 +1,6 @@
-{
-  [
-  "name": "test",
-  "url": "https://test.de"
-  ],
-}
+[
+    {
+        "name": "test",
+        "url": "https://test.de"
+    }
+]
