@@ -1,57 +1,65 @@
-# Minecraft: The world of unlimited possibilities
+# Welcome back
 
-Minecraft is more than just a game — it's a platform for creativity, adventure and community. Whether you're creating buildings, searching deep caves for resources or experiencing epic adventures with friends, Minecraft offers you countless possibilities.
-
-## Creativity without limits
-
-The building blocks in Minecraft allow you to turn your imagination into reality. From simple houses to complex Redstone machines, you can create anything you can imagine.
-
-### Building and design
-
-Whether you're building a cosy cabin in the mountains or a huge city in the style of your favourite films, Minecraft's block system gives you the freedom to be creative. Many players also use mods and texture packs to make their worlds even more unique.
-
-### Redstone – The electrical world of Minecraft
-
-Redstone is Minecraft's equivalent of electricity. You can use it to build complex machines, open automatic doors, construct lifts or even create simple computer programs.
-
-## Adventures await everywhere
-
-The procedurally generated world always has new challenges and secrets in store. Explore dungeons, fight monsters and find rare treasures.
-
-### The dangerous depths
-
-If you venture into the underground caves, you will encounter dangerous creatures such as creepers, skeletons, and endermen. But in the depths, you can also find valuable resources such as diamonds, gold, and redstone.
-
-### Discover dimensions
-
-Minecraft offers different dimensions that you can travel to: the Nether with its lava rivers and fortresses, and the End with its legendary dragon boss. Each dimension brings unique challenges and rewards.
-
-## Community and multiplayer
-
-Minecraft connects millions of players worldwide. Whether on public servers or private worlds, playing together is even more fun.
-
-### Servers and worlds
-
-Many servers offer their own game modes such as survival, creative mode, mini-games or role-playing games. There you can meet new friends, trade or participate in events.
-
-### Community and events
-
-Minecraft has an active community that creates mods, skins and maps. Official events and competitions also bring players together and promote exchange and creativity.
-
-## Education and learning
-
-Minecraft is also used as a learning platform. Schools use it to teach students programming, teamwork and problem solving.
-
-### Minecraft Education Edition
-
-This special version is designed for use in the classroom and offers tools for teaching learning content in a playful way.
-
-## Conclusion
-
-Minecraft is a unique game that connects generations. Its open world, endless possibilities and vibrant community make it one of the most popular games of all time.
-
-Stay tuned for more exciting posts about Minecraft and Crystopia!
+Hey there! Glad to have you here.  
+We are thrilled to present the new **Crystopia website** today – a fresh, modern and completely **open source** project that is more than just code.
 
 ---
 
-*Thanks for reading!*
+## 🚀 Our roadmap: What's coming?
+
+We have big plans, and here are two of the first milestones:
+
+- **☁️ Crystopia Cloud**
+A central platform where you can manage your projects, data and tools smartly. Fast, lightweight and, of course, privacy-friendly.
+
+- **📦 Resourcepack Manager**
+No more complicated RP setups! Our manager will make it easy to create, combine and manage Minecraft resource packs – locally or via the cloud.
+
+- **⚙️ More plugins**
+  We are also working on additional plugins such as RoleLink, CrystalRewards, AffilietCode, CrystalShardAPI, etc. We will continue to develop these in the coming months and will also publish them on [modrinth.com](https://modrinth.com/organization/xyzspace).
+
+---
+
+## 💡 Open Source
+
+Crystopia is **freely available on GitHub**.  
+We have now decided to host all our projects on GitHub to make development more transparent and collaborative.
+Everyone is invited to contribute, give feedback or just see what we are up to.
+
+> **GitHub:** [https://github.com/crystopia](https://github.com/crystopia)
+
+---
+
+## 🎥 YouTube 
+
+We regularly document our journey on **YouTube**.  
+New features, devlogs, tutorials and behind-the-scenes footage – everything for you to follow and learn from.
+
+> **YouTube:** [https://youtube.com/@crystopia](https://youtube.com/@crystopia)
+
+---
+
+## 🌐 The new website is online!
+
+Discover our new website now – modern, clearly structured and perfect for keeping track of our projects. Even more content will follow soon!
+
+🔗 **Website:** [https://crystopia.](https://crystopia.dev)
+
+---
+
+## 💬 Become part of the community
+
+Want to give feedback, join the conversation or just see what's going on?  
+Then come to our **Discord server**!  
+We welcome anyone who wants to get involved or just be part of our growing community.
+
+👉 **Discord:** [https://crystopia.link.com/discord](https://nexocrew.com/discord)
+
+---
+
+**Thank you for being part of Crystopia – we are excited to see what we will build together.**
+
+Stay curious,  
+**your Crystopia team 🚀**
+
+Translated with DeepL.com (free version)
