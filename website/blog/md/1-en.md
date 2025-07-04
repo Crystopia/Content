@@ -6,9 +6,6 @@ Hey du! Schön, dass du hier bist.
 Wir freuen uns riesig, heute die neue **Crystopia Website** vorzustellen – ein frisches, modernes und vollständig **Open Source** Projekt, das mehr ist als nur Code.
 
 <br />
-
----
-
 <br />
 
 ## 🚀 Unsere Roadmap: Was kommt?
@@ -27,10 +24,8 @@ Wir haben große Pläne, und hier sind zwei der ersten Meilensteine:
   Wir arbeiten auch noch an weiteren plugins wie RoleLink, CrystalRewards, AffilietCode, CrystalShardAPI, etc. Diese entwikeln wir in der kommenden zeit weriter und werden diese auch auf [modrinth.com](https://modrinth.com/organization/xyzspace)
 
 <br />
-
----
-
 <br />
+
 ## 💡 Open Source
 
 <br /><br />
@@ -42,7 +37,6 @@ Jeder ist eingeladen, mitzuwirken, Feedback zu geben oder einfach nur zu schauen
 > **GitHub:** [https://github.com/crystopia](https://github.com/crystopia)
 
 <br />
----
 <br />
 
 ## 🎥 YouTube 
@@ -55,9 +49,6 @@ Neue Features, Devlogs, Tutorials und Behind-the-Scenes – alles für dich zum 
 > **YouTube:** [https://youtube.com/@crystopia](https://youtube.com/@crystopia)
 
 <br />
-
----
-
 <br />
 
 ## 🌐 Die neue Website ist online!
@@ -69,9 +60,6 @@ Entdecke ab sofort unsere neue Website – modern, klar strukturiert und perfekt
 🔗 **Website:** [https://crystopia.](https://crystopia.dev)
 
 <br />
-
----
-
 <br />
 
 ## 💬 Werde Teil der Community
@@ -84,8 +72,6 @@ Wir freuen uns über jede:n, der Lust hat, mitzumachen oder einfach nur Teil uns
 👉 **Discord:** [https://crystopia.link.com/discord](https://nexocrew.com/discord)
 
 <br />
-
----
 <br />
 
 **Danke, dass du ein Teil von Crystopia bist – wir sind gespannt, was wir gemeinsam aufbauen werden.**
