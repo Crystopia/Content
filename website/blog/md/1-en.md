@@ -1,65 +1,96 @@
-# Welcome back
+# Willkommen zurück
 
-Hey there! Glad to have you here.  
-We are thrilled to present the new **Crystopia website** today – a fresh, modern and completely **open source** project that is more than just code.
+<br /><br />
 
----
+Hey du! Schön, dass du hier bist.  
+Wir freuen uns riesig, heute die neue **Crystopia Website** vorzustellen – ein frisches, modernes und vollständig **Open Source** Projekt, das mehr ist als nur Code.
 
-## 🚀 Our roadmap: What's coming?
-
-We have big plans, and here are two of the first milestones:
-
-- **☁️ Crystopia Cloud**
-A central platform where you can manage your projects, data and tools smartly. Fast, lightweight and, of course, privacy-friendly.
-
-- **📦 Resourcepack Manager**
-No more complicated RP setups! Our manager will make it easy to create, combine and manage Minecraft resource packs – locally or via the cloud.
-
-- **⚙️ More plugins**
-  We are also working on additional plugins such as RoleLink, CrystalRewards, AffilietCode, CrystalShardAPI, etc. We will continue to develop these in the coming months and will also publish them on [modrinth.com](https://modrinth.com/organization/xyzspace).
+<br />
 
 ---
 
+<br />
+
+## 🚀 Unsere Roadmap: Was kommt?
+
+<br /><br />
+
+Wir haben große Pläne, und hier sind zwei der ersten Meilensteine:
+
+- **☁️ Crystopia Cloud**  
+  Eine zentrale Plattform, auf der du deine Projekte, Daten und Tools smart verwalten kannst. Schnell, leichtgewichtig und natürlich datenschutzfreundlich.
+
+- **📦 Resourcepack Manager**  
+  Schluss mit komplizierten RP-Setups! Unser Manager wird es einfach machen, Minecraft-Resourcepacks zu erstellen, zu kombinieren und zu verwalten – lokal oder über die Cloud.
+
+- **⚙️ Weitere Plugins**
+  Wir arbeiten auch noch an weiteren plugins wie RoleLink, CrystalRewards, AffilietCode, CrystalShardAPI, etc. Diese entwikeln wir in der kommenden zeit weriter und werden diese auch auf [modrinth.com](https://modrinth.com/organization/xyzspace)
+
+<br />
+
+---
+
+<br />
 ## 💡 Open Source
 
-Crystopia is **freely available on GitHub**.  
-We have now decided to host all our projects on GitHub to make development more transparent and collaborative.
-Everyone is invited to contribute, give feedback or just see what we are up to.
+<br /><br />
+
+Crystopia ist **frei verfügbar auf GitHub**.  
+Wir haben uns nun dazu entschieden, alle unsere Projekte auf GitHub zu hosten, um die Entwicklung transparenter und kollaborativer zu gestalten.
+Jeder ist eingeladen, mitzuwirken, Feedback zu geben oder einfach nur zu schauen, was wir so treiben.
 
 > **GitHub:** [https://github.com/crystopia](https://github.com/crystopia)
 
+<br />
 ---
+<br />
 
 ## 🎥 YouTube 
 
-We regularly document our journey on **YouTube**.  
-New features, devlogs, tutorials and behind-the-scenes footage – everything for you to follow and learn from.
+<br /><br />
+
+Wir dokumentieren unsere Reise regelmäßig auf **YouTube**.  
+Neue Features, Devlogs, Tutorials und Behind-the-Scenes – alles für dich zum Mitverfolgen und Mitlernen.
 
 > **YouTube:** [https://youtube.com/@crystopia](https://youtube.com/@crystopia)
 
+<br />
+
 ---
 
-## 🌐 The new website is online!
+<br />
 
-Discover our new website now – modern, clearly structured and perfect for keeping track of our projects. Even more content will follow soon!
+## 🌐 Die neue Website ist online!
+
+<br /><br />
+
+Entdecke ab sofort unsere neue Website – modern, klar strukturiert und perfekt, um den Überblick über unsere Projekte zu behalten. Noch mehr Inhalte folgen bald!
 
 🔗 **Website:** [https://crystopia.](https://crystopia.dev)
 
+<br />
+
 ---
 
-## 💬 Become part of the community
+<br />
 
-Want to give feedback, join the conversation or just see what's going on?  
-Then come to our **Discord server**!  
-We welcome anyone who wants to get involved or just be part of our growing community.
+## 💬 Werde Teil der Community
+
+<br />
+Du willst Feedback geben, mitreden oder einfach nur schauen, was so abgeht?  
+Dann komm auf unseren **Discord-Server**!  
+Wir freuen uns über jede:n, der Lust hat, mitzumachen oder einfach nur Teil unserer wachsenden Community zu sein.
 
 👉 **Discord:** [https://crystopia.link.com/discord](https://nexocrew.com/discord)
 
+<br />
+
 ---
+<br />
 
-**Thank you for being part of Crystopia – we are excited to see what we will build together.**
+**Danke, dass du ein Teil von Crystopia bist – wir sind gespannt, was wir gemeinsam aufbauen werden.**
 
-Stay curious,  
-**your Crystopia team 🚀**
+<br />
 
-Translated with DeepL.com (free version)
+Bleib neugierig,  
+**dein Crystopia-Team 🚀**
